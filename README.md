@@ -1,2 +1,0 @@
-# BTVN
-Làm BTVN
