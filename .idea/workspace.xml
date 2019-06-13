@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f360031-bb6f-4aba-9545-0eaf3d72a5ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/ad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/ad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/blank.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/pages/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/partials/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/partials/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSD2HTML-CSS/vtf-004-home-interior-website-template.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/PSD2HTML-CSS/vtf-004-home-interior-website-template.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ResetCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/css/ResetCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/human.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/human.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/intro-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/intro-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/map.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/blank.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="68" column="86" selection-start-line="68" selection-start-column="86" selection-end-line="68" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="221" column="4" lean-forward="true" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Template/pages/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App_Template/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>./img</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>assets/img</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/App_Template/partials/footer.php" />
+        <option value="$PROJECT_DIR$/App_Template/partials/head.php" />
+        <option value="$PROJECT_DIR$/App_Template/partials/header.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/home.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/contact.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/about.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/blank.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/category.php" />
+        <option value="$PROJECT_DIR$/App_Template/pages/post.php" />
+        <option value="$PROJECT_DIR$/App_Template/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
+              <item name="App_Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
+              <item name="App_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/App_Template/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BTVN\App_Template\assets" />
+      <recent name="D:\xampp\htdocs\BTVN\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BTVN" />
+      <recent name="C:\xampp\htdocs\BTVN\Noi_That" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f360031-bb6f-4aba-9545-0eaf3d72a5ba" name="Default Changelist" comment="" />
+      <created>1553098620266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553098620266</updated>
+      <workItem from="1553098621984" duration="2324000" />
+      <workItem from="1553177269916" duration="10991000" />
+      <workItem from="1553220667221" duration="4377000" />
+      <workItem from="1553480055199" duration="5303000" />
+      <workItem from="1553554035911" duration="3089000" />
+      <workItem from="1553596446490" duration="7391000" />
+      <workItem from="1553699992772" duration="6898000" />
+      <workItem from="1553772786666" duration="55000" />
+      <workItem from="1553780441447" duration="578000" />
+      <workItem from="1553867761271" duration="4583000" />
+      <workItem from="1554202083444" duration="25000" />
+      <workItem from="1554376313409" duration="1922000" />
+      <workItem from="1554452232501" duration="62000" />
+      <workItem from="1554638250011" duration="1105000" />
+      <workItem from="1554657748391" duration="35000" />
+      <workItem from="1554784023298" duration="10000" />
+      <workItem from="1555148331588" duration="114000" />
+      <workItem from="1555335979166" duration="4849000" />
+      <workItem from="1555585879494" duration="353000" />
+      <workItem from="1555591893069" duration="165000" />
+      <workItem from="1560395027168" duration="723000" />
+      <workItem from="1560399550511" duration="2212000" />
+    </task>
+    <task id="LOCAL-00001" summary="PSD-HTML/CSS">
+      <created>1553189454169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553189454170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="28/3">
+      <created>1553707123750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553707123750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="15/4/19">
+      <created>1555339975888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555339975888</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="PSD-HTML/CSS" />
+    <MESSAGE value="28/3" />
+    <MESSAGE value="15/4/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="15/4/19" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/intro_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/Noi_That/images/intro-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Noi_That/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Noi_That/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="24" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/partials/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="n#footer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/partials/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1511">
+          <caret line="69" column="82" selection-start-line="69" selection-start-column="82" selection-end-line="69" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="149" column="8" lean-forward="true" selection-start-line="149" selection-start-column="8" selection-end-line="383" selection-end-column="14" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="149" column="8" lean-forward="true" selection-start-line="149" selection-start-column="8" selection-end-line="231" selection-end-column="14" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="149" column="8" lean-forward="true" selection-start-line="149" selection-start-column="8" selection-end-line="196" selection-end-column="14" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="230" selection-end-column="14" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/source/webmag/webmag/blog-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="444" selection-end-column="14" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/blank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="68" column="86" selection-start-line="68" selection-start-column="86" selection-end-line="68" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="221" column="4" lean-forward="true" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
