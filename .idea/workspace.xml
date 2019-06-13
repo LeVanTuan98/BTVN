@@ -2,61 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f360031-bb6f-4aba-9545-0eaf3d72a5ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/about-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/about-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/ad-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/ad-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/post-page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/img/widget-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/blank.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/pages/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/partials/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/partials/head.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Template/partials/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSD2HTML-CSS/vtf-004-home-interior-website-template.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/PSD2HTML-CSS/vtf-004-home-interior-website-template.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ResetCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/css/ResetCss.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/human.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/human.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/intro-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/intro-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/intro-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/intro-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/map.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/images/pic_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Noi_That/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,74 +24,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/about.php">
+        <entry file="file://$PROJECT_DIR$/App_login/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+            <state relative-caret-position="384">
+              <caret line="61" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/blank.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="68" column="86" selection-start-line="68" selection-start-column="86" selection-end-line="68" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="221" column="4" lean-forward="true" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_Template/pages/post.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App_Template/index.php">
+        <entry file="file://$PROJECT_DIR$/App_login/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            <state relative-caret-position="475">
+              <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_login/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_login/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_login/sample.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="7" lean-forward="true" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -149,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -180,6 +110,13 @@
         <option value="$PROJECT_DIR$/App_Template/pages/category.php" />
         <option value="$PROJECT_DIR$/App_Template/pages/post.php" />
         <option value="$PROJECT_DIR$/App_Template/index.php" />
+        <option value="$PROJECT_DIR$/App_login/config.php" />
+        <option value="$PROJECT_DIR$/App_login/sample.html" />
+        <option value="$PROJECT_DIR$/App_login/homepage.php" />
+        <option value="$PROJECT_DIR$/App_login/logout.php" />
+        <option value="$PROJECT_DIR$/App_login/login.php" />
+        <option value="$PROJECT_DIR$/App_login/index.php" />
+        <option value="$PROJECT_DIR$/App_login/register.php" />
       </list>
     </option>
   </component>
@@ -206,13 +143,7 @@
             <path>
               <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN" type="462c0819:PsiDirectoryNode" />
-              <item name="App_Template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
-              <item name="App_Template" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="App_login" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +156,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/App_Template/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1901E_PHP" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -286,7 +217,7 @@
       <workItem from="1555585879494" duration="353000" />
       <workItem from="1555591893069" duration="165000" />
       <workItem from="1560395027168" duration="723000" />
-      <workItem from="1560399550511" duration="2212000" />
+      <workItem from="1560399550511" duration="11339000" />
     </task>
     <task id="LOCAL-00001" summary="PSD-HTML/CSS">
       <created>1553189454169</created>
@@ -309,11 +240,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555339975888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="13/6/19">
+      <created>1560401782522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560401782522</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57164000" />
+    <option name="totallyTimeSpent" value="66291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -348,7 +286,8 @@
     <MESSAGE value="PSD-HTML/CSS" />
     <MESSAGE value="28/3" />
     <MESSAGE value="15/4/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="15/4/19" />
+    <MESSAGE value="13/6/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/6/19" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/intro_1.jpg" />
@@ -503,7 +442,7 @@
     <entry file="file://$PROJECT_DIR$/App_Template/pages/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
-          <caret line="221" column="4" lean-forward="true" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
+          <caret line="221" column="4" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -513,21 +452,14 @@
     <entry file="file://$PROJECT_DIR$/App_Template/pages/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App_Template/pages/post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -537,8 +469,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App_Template/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        <state relative-caret-position="395">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
