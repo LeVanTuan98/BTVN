@@ -38,12 +38,12 @@ session_start();
              * Kiểm tra đã tồn tại tài khoản đăng ký chưa
              */
             // Để đảm bảo an toàn
-            $sqlCheck = "SELECT * FROM user WHERE user_name = ? AND password = ?";
+            $sqlCheck = "SELECT id,user_name FROM user WHERE user_name = ?";
 
             // Chuẩn bị cho phần SQL
             $stmt = $connection->prepare($sqlCheck);
             // Bind 2biến vào câu lệnh SQL
-            $stmt->bind_param("ss", $username, $password);
+            $stmt->bind_param("s", $username);
             //Thực thi câu lệnh SQL
             $stmt->execute();
             //Lấy ra bản ghi
@@ -55,7 +55,7 @@ session_start();
                 /*
                  * Nếu tồn tại bản ghi thì sẽ báo lỗi
                  */
-                $error[] = "Tài khoản đã tồn tại";
+                $error[] = "User name đã tồn tại";
             }else {
                 // Để đảm bảo an toàn khi insert dữ liệu thì dùng VALUE(?,?,?) thay vì truyền các biến vào VALUE
                 $sqlInsert = "INSERT INTO user (user_name,password,created_at) VALUE (?,?,?)";

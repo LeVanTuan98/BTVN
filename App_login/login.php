@@ -1,9 +1,7 @@
 <?php
     session_start();
-    if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true ) {
-        header('location: index.php');
-        exit;
-    }
+
+
     /*
      * Nạp file kết nối CSDL
      */
@@ -60,6 +58,11 @@
         echo $error_string;
         echo "</div>";
     }
+
+if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true ) {
+    header('location: index.php');
+    exit;
+}
 
 ?>
 <!DOCTYPE html>

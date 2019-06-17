@@ -2,13 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f360031-bb6f-4aba-9545-0eaf3d72a5ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/App_login/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_login/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_login/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_login/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_login/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_login/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_DI/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_DI/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/blog-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/ad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/ad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/post-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/img/widget-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Template/source/webmag/webmag/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/.idea/App_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_login/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUP_Products/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUP_Products/conflig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUP_Products/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUP_Products/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUP_Products/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Cart/Template/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Cart/Template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Cart/Template/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Cart/Template/process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Noi_That/images/images.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_login/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/App_login/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_login/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/App_login/register.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,52 +75,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_login/login.php">
+        <entry file="file://$PROJECT_DIR$/App_DI/index1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="61" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="25" selection-start-line="25" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App_login/register.php">
+        <entry file="file://$PROJECT_DIR$/App_DI/index2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_login/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_login/logout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App_login/sample.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="7" lean-forward="true" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="472">
+              <caret line="47" column="57" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -114,9 +132,11 @@
         <option value="$PROJECT_DIR$/App_login/sample.html" />
         <option value="$PROJECT_DIR$/App_login/homepage.php" />
         <option value="$PROJECT_DIR$/App_login/logout.php" />
-        <option value="$PROJECT_DIR$/App_login/login.php" />
         <option value="$PROJECT_DIR$/App_login/index.php" />
         <option value="$PROJECT_DIR$/App_login/register.php" />
+        <option value="$PROJECT_DIR$/App_login/login.php" />
+        <option value="$PROJECT_DIR$/App_DI/index1.php" />
+        <option value="$PROJECT_DIR$/App_DI/index2.php" />
       </list>
     </option>
   </component>
@@ -124,7 +144,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -133,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,20 +164,30 @@
             <path>
               <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN" type="462c0819:PsiDirectoryNode" />
-              <item name="App_login" type="462c0819:PsiDirectoryNode" />
+              <item name="App_DI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework_Cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework_Cart" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1901E_PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -217,7 +248,12 @@
       <workItem from="1555585879494" duration="353000" />
       <workItem from="1555591893069" duration="165000" />
       <workItem from="1560395027168" duration="723000" />
-      <workItem from="1560399550511" duration="11339000" />
+      <workItem from="1560399550511" duration="11421000" />
+      <workItem from="1560423256777" duration="1220000" />
+      <workItem from="1560529399164" duration="3443000" />
+      <workItem from="1560678701402" duration="1439000" />
+      <workItem from="1560695399140" duration="1919000" />
+      <workItem from="1560769089443" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="PSD-HTML/CSS">
       <created>1553189454169</created>
@@ -247,16 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1560401782522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="13/6/19">
+      <created>1560419242387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560419242388</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66291000" />
+    <option name="totallyTimeSpent" value="75314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App_login/sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App_Template/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -495,37 +531,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App_login/logout.php">
+    <entry file="file://$PROJECT_DIR$/App_login/sample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App_login/index.php">
+    <entry file="file://$PROJECT_DIR$/Homework_Cart/Template/process.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
+        <state relative-caret-position="-66" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App_login/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App_login/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1804">
+          <caret line="82" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_login/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_DI/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="25" selection-start-line="25" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_DI/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="47" column="57" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
         </state>
       </provider>
     </entry>
