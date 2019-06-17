@@ -42,6 +42,10 @@ class Question {
         return $this->question;
     }
 
+    public function setAuthor(Author $author) {
+        $this->author = $author;
+    }
+
 }
 
 $author = new Author('super','admin');
